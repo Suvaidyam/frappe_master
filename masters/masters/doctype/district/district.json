@@ -1,60 +1,60 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:S-{######}",
- "creation": "2023-09-13 03:10:06.417825",
+ "autoname": "format:D-{######}",
+ "creation": "2023-09-13 03:44:43.449523",
  "default_view": "List",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "state_name",
-  "state_code",
-  "column_break_ncjq",
-  "country",
-  "country_code"
+  "district_name",
+  "district_code",
+  "column_break_jmts",
+  "state",
+  "state_code"
  ],
  "fields": [
   {
-   "fieldname": "state_name",
+   "fieldname": "district_name",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "State Name",
+   "label": "District Name",
    "reqd": 1
   },
   {
-   "fetch_from": "country.country_code",
-   "fieldname": "country_code",
-   "fieldtype": "Data",
-   "label": "Country Code",
-   "read_only": 1
-  },
-  {
-   "fieldname": "country",
+   "fieldname": "state",
    "fieldtype": "Link",
-   "label": "Country",
-   "options": "Countrys",
+   "in_list_view": 1,
+   "label": "State",
+   "options": "State",
    "reqd": 1
   },
   {
-   "fieldname": "column_break_ncjq",
-   "fieldtype": "Column Break"
-  },
-  {
+   "fetch_from": "state.state_code",
    "fieldname": "state_code",
    "fieldtype": "Data",
-   "label": "State Code",
+   "label": "State Code"
+  },
+  {
+   "fieldname": "district_code",
+   "fieldtype": "Data",
+   "label": "District Code",
    "no_copy": 1,
    "reqd": 1,
    "unique": 1
+  },
+  {
+   "fieldname": "column_break_jmts",
+   "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 04:05:18.668303",
+ "modified": "2023-09-13 04:05:31.076274",
  "modified_by": "Administrator",
  "module": "Masters",
- "name": "State",
+ "name": "District",
  "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
@@ -71,9 +71,7 @@
    "write": 1
   }
  ],
- "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": [],
- "title_field": "state_name"
+ "states": []
 }
