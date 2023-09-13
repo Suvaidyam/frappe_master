@@ -1,62 +1,62 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:B-{######}",
- "creation": "2023-09-13 08:24:09.582823",
+ "autoname": "format:V-{######}",
+ "creation": "2023-09-13 08:28:31.462472",
  "default_view": "List",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "block_name",
-  "block_code",
-  "column_break_ionb",
-  "district",
-  "district_code"
+  "village_name",
+  "village_code",
+  "column_break_pcjy",
+  "block",
+  "block_code"
  ],
  "fields": [
   {
-   "fieldname": "block_name",
+   "fieldname": "village_name",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Block Name",
+   "label": "Village Name",
    "reqd": 1
   },
   {
-   "fieldname": "block_code",
+   "fieldname": "village_code",
    "fieldtype": "Data",
    "in_list_view": 1,
-   "label": "Block Code",
+   "label": "Village Code",
    "no_copy": 1,
    "reqd": 1,
    "unique": 1
   },
   {
-   "fieldname": "column_break_ionb",
+   "fieldname": "column_break_pcjy",
    "fieldtype": "Column Break"
   },
   {
-   "fieldname": "district",
+   "fieldname": "block",
    "fieldtype": "Link",
-   "in_list_view": 1,
-   "label": "District",
-   "options": "District",
+   "label": "Block",
+   "options": "Block",
    "reqd": 1
   },
   {
-   "fetch_from": "district.district_code",
-   "fieldname": "district_code",
+   "fetch_from": "block.block_code",
+   "fieldname": "block_code",
    "fieldtype": "Data",
-   "label": "District Code",
-   "read_only": 1
+   "label": "Block Code",
+   "read_only": 1,
+   "reqd": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 08:30:19.613991",
+ "modified": "2023-09-13 08:30:08.206507",
  "modified_by": "Administrator",
  "module": "Masters",
- "name": "Block",
+ "name": "Village",
  "naming_rule": "Expression",
  "owner": "Administrator",
  "permissions": [
