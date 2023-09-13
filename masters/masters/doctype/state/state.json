@@ -23,7 +23,7 @@
    "reqd": 1
   },
   {
-   "fetch_from": "country.country_code",
+   "fetch_from": "country.code",
    "fieldname": "country_code",
    "fieldtype": "Data",
    "label": "Country Code",
@@ -33,7 +33,7 @@
    "fieldname": "country",
    "fieldtype": "Link",
    "label": "Country",
-   "options": "Countrys",
+   "options": "Country",
    "reqd": 1
   },
   {
@@ -51,7 +51,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 04:05:18.668303",
+ "modified": "2023-09-13 12:44:25.540042",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "State",

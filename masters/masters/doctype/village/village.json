@@ -47,13 +47,12 @@
    "fieldname": "block_code",
    "fieldtype": "Data",
    "label": "Block Code",
-   "read_only": 1,
-   "reqd": 1
+   "read_only": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 08:30:08.206507",
+ "modified": "2023-09-13 12:45:41.773608",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Village",
