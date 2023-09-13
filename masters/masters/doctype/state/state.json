@@ -1,7 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "format:S-{######}",
+ "autoname": "field:state_code",
  "creation": "2023-09-13 03:10:06.417825",
  "default_view": "List",
  "doctype": "DocType",
@@ -43,6 +43,7 @@
   {
    "fieldname": "state_code",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "State Code",
    "no_copy": 1,
    "reqd": 1,
@@ -51,11 +52,11 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 12:44:25.540042",
+ "modified": "2023-09-13 15:27:28.226083",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "State",
- "naming_rule": "Expression",
+ "naming_rule": "By fieldname",
  "owner": "Administrator",
  "permissions": [
   {
