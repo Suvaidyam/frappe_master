@@ -1,0 +1,57 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"QQhj-PNDuW\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Geo Master</span>\",\"col\":12}},{\"id\":\"FMmf5hKd3u\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"State\",\"col\":3}},{\"id\":\"i7zHIMK4zU\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"District\",\"col\":3}},{\"id\":\"SHvbdVwbQV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Block\",\"col\":3}},{\"id\":\"RZLdOnV413\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Village\",\"col\":3}}]",
+ "creation": "2023-09-23 15:47:37.607170",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "duplicate",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Geo Master",
+ "links": [],
+ "modified": "2023-09-23 15:50:53.447650",
+ "modified_by": "Administrator",
+ "module": "Masters",
+ "name": "Geo Master",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 13.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Village",
+   "link_to": "Village",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "State",
+   "link_to": "State",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "District",
+   "link_to": "District",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Block",
+   "link_to": "Block",
+   "type": "DocType"
+  }
+ ],
+ "title": "Geo Master"
+}
