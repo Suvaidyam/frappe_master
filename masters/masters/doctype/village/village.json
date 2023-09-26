@@ -88,7 +88,7 @@
    "reqd": 1
   },
   {
-   "fetch_from": "district.district_code",
+   "fetch_from": "district.",
    "fieldname": "district_code",
    "fieldtype": "Data",
    "label": "District Code",
@@ -101,7 +101,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 06:46:01.012626",
+ "modified": "2023-09-26 06:53:48.880698",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Village",
