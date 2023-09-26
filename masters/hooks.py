@@ -6,6 +6,18 @@ app_email = "tech@suvaidyam.com"
 app_license = "mit"
 # required_apps = []
 
+fixtures = [
+    "State",
+    "District",
+    "Block",
+    "Village"
+]
+#  if want any filter 
+ # {
+    #     "dt":"docttype name",
+    #     "filters":""
+    # }
+
 # Includes in <head>
 # ------------------
 
