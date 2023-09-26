@@ -8,11 +8,14 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "block_name",
-  "block_code",
-  "column_break_ionb",
+  "country",
+  "country_code",
+  "state",
+  "state_code",
   "district",
-  "district_code"
+  "district_code",
+  "block_name",
+  "block_code"
  ],
  "fields": [
   {
@@ -32,10 +35,6 @@
    "unique": 1
   },
   {
-   "fieldname": "column_break_ionb",
-   "fieldtype": "Column Break"
-  },
-  {
    "fieldname": "district",
    "fieldtype": "Link",
    "in_list_view": 1,
@@ -49,11 +48,39 @@
    "fieldtype": "Data",
    "label": "District Code",
    "read_only": 1
+  },
+  {
+   "fieldname": "country",
+   "fieldtype": "Link",
+   "label": "Country",
+   "options": "Country",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "country.code",
+   "fieldname": "country_code",
+   "fieldtype": "Data",
+   "label": "Country Code",
+   "read_only": 1
+  },
+  {
+   "fieldname": "state",
+   "fieldtype": "Link",
+   "label": "State",
+   "options": "State",
+   "reqd": 1
+  },
+  {
+   "fetch_from": "state.state_code",
+   "fieldname": "state_code",
+   "fieldtype": "Data",
+   "label": "State Code",
+   "read_only": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-13 15:31:20.083365",
+ "modified": "2023-09-26 06:37:14.719804",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Block",
