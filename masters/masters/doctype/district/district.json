@@ -12,7 +12,6 @@
   "state",
   "district_name",
   "column_break_yzoo",
-  "country_code",
   "state_code",
   "district_code"
  ],
@@ -56,20 +55,13 @@
    "reqd": 1
   },
   {
-   "fetch_from": "country.",
-   "fieldname": "country_code",
-   "fieldtype": "Data",
-   "label": "Country Code",
-   "read_only": 1
-  },
-  {
    "fieldname": "column_break_yzoo",
    "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 06:50:20.610428",
+ "modified": "2023-09-26 11:39:30.021431",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "District",

@@ -1,0 +1,32 @@
+[
+ {
+  "country": "India",
+  "country_code": "in",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-09-26 10:29:46.305531",
+  "name": "inbr",
+  "state_code": "inbr",
+  "state_name": "Bihar"
+ },
+ {
+  "country": "India",
+  "country_code": "in",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-09-26 10:30:00.606197",
+  "name": "inup",
+  "state_code": "inup",
+  "state_name": "UP"
+ },
+ {
+  "country": "India",
+  "country_code": "in",
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-09-26 10:30:16.568659",
+  "name": "indl",
+  "state_code": "indl",
+  "state_name": "Delhi"
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "country": "India",
+  "district_code": "inbrsar",
+  "district_name": "Saran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-09-26 11:39:52.323464",
+  "name": "inbrsar",
+  "state": "inbr",
+  "state_code": "inbr"
+ },
+ {
+  "country": "India",
+  "district_code": "inbrpat",
+  "district_name": "Patna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-09-26 11:40:32.242627",
+  "name": "inbrpat",
+  "state": "inbr",
+  "state_code": "inbr"
+ },
+ {
+  "country": "India",
+  "district_code": "inbrsiw",
+  "district_name": "Siwan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-09-26 11:41:50.396343",
+  "name": "inbrsiw",
+  "state": "inbr",
+  "state_code": "inbr"
+ }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "block_code": "inbrsaramn",
+  "block_name": "Amnour",
+  "country": "India",
+  "district": "inbrsar",
+  "district_code": "inbrsar",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-09-26 11:44:50.538011",
+  "name": "inbrsaramn",
+  "state": "inbr",
+  "state_code": "inbr"
+ },
+ {
+  "block_code": "inbrsargar",
+  "block_name": "Garkha",
+  "country": "India",
+  "district": "inbrsar",
+  "district_code": "inbrsar",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-09-26 11:45:12.198197",
+  "name": "inbrsargar",
+  "state": "inbr",
+  "state_code": "inbr"
+ },
+ {
+  "block_code": "inbrpatgg",
+  "block_name": "Gaya Ghat",
+  "country": "India",
+  "district": "inbrpat",
+  "district_code": "inbrpat",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-09-26 11:46:01.703485",
+  "name": "inbrpatgg",
+  "state": "inbr",
+  "state_code": "inbr"
+ },
+ {
+  "block_code": "inbirpayab",
+  "block_name": "Anisha bad",
+  "country": "India",
+  "district": "inbrpat",
+  "district_code": "inbrpat",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-09-26 11:46:26.604054",
+  "name": "inbirpayab",
+  "state": "inbr",
+  "state_code": "inbr"
+ }
+]

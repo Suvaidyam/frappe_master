@@ -13,7 +13,6 @@
   "district",
   "block_name",
   "column_break_gqrn",
-  "country_code",
   "state_code",
   "district_code",
   "block_code"
@@ -44,7 +43,7 @@
    "reqd": 1
   },
   {
-   "fetch_from": "district.",
+   "fetch_from": "district.district_code",
    "fieldname": "district_code",
    "fieldtype": "Data",
    "label": "District Code",
@@ -56,13 +55,6 @@
    "label": "Country",
    "options": "Country",
    "reqd": 1
-  },
-  {
-   "fetch_from": "country.",
-   "fieldname": "country_code",
-   "fieldtype": "Data",
-   "label": "Country Code",
-   "read_only": 1
   },
   {
    "fieldname": "state",
@@ -85,7 +77,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 06:52:23.052893",
+ "modified": "2023-09-26 11:44:22.020183",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Block",
