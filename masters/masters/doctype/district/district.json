@@ -9,10 +9,11 @@
  "engine": "InnoDB",
  "field_order": [
   "country",
-  "country_code",
   "state",
-  "state_code",
   "district_name",
+  "column_break_yzoo",
+  "country_code",
+  "state_code",
   "district_code"
  ],
  "fields": [
@@ -35,11 +36,13 @@
    "fetch_from": "state.state_code",
    "fieldname": "state_code",
    "fieldtype": "Data",
-   "label": "State Code"
+   "label": "State Code",
+   "read_only": 1
   },
   {
    "fieldname": "district_code",
    "fieldtype": "Data",
+   "in_list_view": 1,
    "label": "District Code",
    "no_copy": 1,
    "reqd": 1,
@@ -53,15 +56,20 @@
    "reqd": 1
   },
   {
-   "fetch_from": "country.code",
+   "fetch_from": "country.",
    "fieldname": "country_code",
    "fieldtype": "Data",
-   "label": "Country Code"
+   "label": "Country Code",
+   "read_only": 1
+  },
+  {
+   "fieldname": "column_break_yzoo",
+   "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 06:32:46.301159",
+ "modified": "2023-09-26 06:50:20.610428",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "District",
