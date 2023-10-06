@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "autoname": "field:block_code",
  "creation": "2023-09-13 08:24:09.582823",
@@ -8,13 +9,10 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "country",
   "state",
-  "district",
   "block_name",
   "column_break_gqrn",
-  "state_code",
-  "district_code",
+  "district",
   "block_code"
  ],
  "fields": [
@@ -43,32 +41,11 @@
    "reqd": 1
   },
   {
-   "fetch_from": "district.district_code",
-   "fieldname": "district_code",
-   "fieldtype": "Data",
-   "label": "District Code",
-   "read_only": 1
-  },
-  {
-   "fieldname": "country",
-   "fieldtype": "Link",
-   "label": "Country",
-   "options": "Country",
-   "reqd": 1
-  },
-  {
    "fieldname": "state",
    "fieldtype": "Link",
    "label": "State",
    "options": "State",
    "reqd": 1
-  },
-  {
-   "fetch_from": "state.state_code",
-   "fieldname": "state_code",
-   "fieldtype": "Data",
-   "label": "State Code",
-   "read_only": 1
   },
   {
    "fieldname": "column_break_gqrn",
@@ -77,7 +54,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 11:44:22.020183",
+ "modified": "2023-10-06 16:58:19.568361",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Block",

@@ -1,5 +1,6 @@
 {
  "actions": [],
+ "allow_import": 1,
  "allow_rename": 1,
  "autoname": "field:district_code",
  "creation": "2023-09-13 03:44:43.449523",
@@ -8,11 +9,8 @@
  "editable_grid": 1,
  "engine": "InnoDB",
  "field_order": [
-  "country",
   "state",
   "district_name",
-  "column_break_yzoo",
-  "state_code",
   "district_code"
  ],
  "fields": [
@@ -32,13 +30,6 @@
    "reqd": 1
   },
   {
-   "fetch_from": "state.state_code",
-   "fieldname": "state_code",
-   "fieldtype": "Data",
-   "label": "State Code",
-   "read_only": 1
-  },
-  {
    "fieldname": "district_code",
    "fieldtype": "Data",
    "in_list_view": 1,
@@ -46,22 +37,11 @@
    "no_copy": 1,
    "reqd": 1,
    "unique": 1
-  },
-  {
-   "fieldname": "country",
-   "fieldtype": "Link",
-   "label": "Country",
-   "options": "Country",
-   "reqd": 1
-  },
-  {
-   "fieldname": "column_break_yzoo",
-   "fieldtype": "Column Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-09-26 11:39:30.021431",
+ "modified": "2023-10-06 17:01:10.426887",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "District",
