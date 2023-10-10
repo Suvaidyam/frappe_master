@@ -12,7 +12,7 @@
  "is_hidden": 0,
  "label": "Geo Master",
  "links": [],
- "modified": "2023-09-23 15:50:53.447650",
+ "modified": "2023-10-10 13:04:23.862660",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Geo Master",
@@ -21,8 +21,12 @@
  "parent_page": "",
  "public": 1,
  "quick_lists": [],
- "roles": [],
- "sequence_id": 13.0,
+ "roles": [
+  {
+   "role": "Administrator"
+  }
+ ],
+ "sequence_id": 4.0,
  "shortcuts": [
   {
    "color": "Grey",

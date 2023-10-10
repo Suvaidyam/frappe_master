@@ -43700,16 +43700,6 @@
   "state": "S25"
  },
  {
-  "block_code": "S264960001",
-  "block_name": "Dadra & Nagar Haveli",
-  "district": "S26496",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:57:54.708964",
-  "name": "S264960001",
-  "state": "S26"
- },
- {
   "block_code": "S274970001",
   "block_name": "Akkalkuwa",
   "district": "S27497",
@@ -46357,26 +46347,6 @@
   "doctype": "Block",
   "modified": "2023-10-09 17:57:59.868475",
   "name": "S275230267",
-  "state": "S27"
- },
- {
-  "block_code": "S275230268",
-  "block_name": "Shirur (Kasar)",
-  "district": "S27523",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:57:59.886141",
-  "name": "S275230268",
-  "state": "S27"
- },
- {
-  "block_code": "S275230269",
-  "block_name": "Georai",
-  "district": "S27523",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:57:59.904293",
-  "name": "S275230269",
   "state": "S27"
  },
  {
@@ -65940,6 +65910,26 @@
   "state": "S35"
  },
  {
+  "block_code": "S275230268",
+  "block_name": "Shirur (Kasar)",
+  "district": "S27523",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:57:59.886141",
+  "name": "S275230268",
+  "state": "S27"
+ },
+ {
+  "block_code": "S264960001",
+  "block_name": "Dadra & Nagar Haveli",
+  "district": "S26496",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:57:54.708964",
+  "name": "S264960001",
+  "state": "S26"
+ },
+ {
   "block_code": "S07001011",
   "block_name": "South West Block",
   "district": "S07097",
@@ -65958,5 +65948,15 @@
   "modified": "2023-10-09 17:57:07.072288",
   "name": "S102190249",
   "state": "S10"
+ },
+ {
+  "block_code": "S275230269",
+  "block_name": "Georai",
+  "district": "S27523",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:57:59.904293",
+  "name": "S275230269",
+  "state": "S27"
  }
 ]

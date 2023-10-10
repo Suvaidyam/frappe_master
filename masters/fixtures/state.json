@@ -170,22 +170,6 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:26.724196",
-  "name": "S26",
-  "state_code": "S26",
-  "state_name": "Dadra & Nagar Haveli"
- },
- {
-  "docstatus": 0,
-  "doctype": "State",
-  "modified": "2023-10-06 16:47:26.745409",
-  "name": "S27",
-  "state_code": "S27",
-  "state_name": "Maharashtra"
- },
- {
-  "docstatus": 0,
-  "doctype": "State",
   "modified": "2023-10-06 16:47:26.773785",
   "name": "S28",
   "state_code": "S28",
@@ -266,10 +250,26 @@
  {
   "docstatus": 0,
   "doctype": "State",
+  "modified": "2023-10-06 16:47:26.724196",
+  "name": "S26",
+  "state_code": "S26",
+  "state_name": "Dadra & Nagar Haveli"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "State",
   "modified": "2023-10-06 16:47:26.113924",
   "name": "S07",
   "state_code": "S07",
   "state_name": "Delhi"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-10-06 16:47:26.745409",
+  "name": "S27",
+  "state_code": "S27",
+  "state_name": "Maharashtra"
  },
  {
   "docstatus": 0,
