@@ -5643,15 +5643,6 @@
   "state": "S06"
  },
  {
-  "district_code": "S26496",
-  "district_name": "Dadra & Nagar Haveli",
-  "docstatus": 0,
-  "doctype": "District",
-  "modified": "2023-10-06 16:55:25.418254",
-  "name": "S26496",
-  "state": "S26"
- },
- {
   "district_code": "S07097",
   "district_name": "South West",
   "docstatus": 0,
@@ -5677,5 +5668,14 @@
   "modified": "2023-10-06 16:55:19.245726",
   "name": "S10219",
   "state": "S10"
+ },
+ {
+  "district_code": "S26496",
+  "district_name": "Dadra & Nagar Haveli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-10-06 16:55:25.418254",
+  "name": "S26496",
+  "state": "S26"
  }
 ]
