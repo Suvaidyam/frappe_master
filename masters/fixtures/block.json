@@ -190,16 +190,6 @@
   "state": "S01"
  },
  {
-  "block_code": "S010030020",
-  "block_name": "Leh",
-  "district": "S01003",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:56:28.419993",
-  "name": "S010030020",
-  "state": "S01"
- },
- {
   "block_code": "S010030021",
   "block_name": "Nyoma",
   "district": "S01003",
@@ -287,16 +277,6 @@
   "doctype": "Block",
   "modified": "2023-10-09 17:56:28.581812",
   "name": "S010040029",
-  "state": "S01"
- },
- {
-  "block_code": "S010040030",
-  "block_name": "Kargil",
-  "district": "S01004",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:56:28.598681",
-  "name": "S010040030",
   "state": "S01"
  },
  {
@@ -1797,16 +1777,6 @@
   "doctype": "Block",
   "modified": "2023-10-09 17:56:31.884830",
   "name": "S020270034",
-  "state": "S02"
- },
- {
-  "block_code": "S020270035",
-  "block_name": "Balh",
-  "district": "S02027",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:56:31.900895",
-  "name": "S020270035",
   "state": "S02"
  },
  {
@@ -3698,16 +3668,6 @@
   "modified": "2023-10-09 17:56:35.428558",
   "name": "S030540142",
   "state": "S03"
- },
- {
-  "block_code": "S040550001",
-  "block_name": "Chandigarh",
-  "district": "S04055",
-  "docstatus": 0,
-  "doctype": "Block",
-  "modified": "2023-10-09 17:56:35.450289",
-  "name": "S040550001",
-  "state": "S04"
  },
  {
   "block_code": "S050560001",
@@ -65958,5 +65918,45 @@
   "modified": "2023-10-09 17:57:54.708964",
   "name": "S264960001",
   "state": "S26"
+ },
+ {
+  "block_code": "S010030020",
+  "block_name": "Leh",
+  "district": "S01003",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:56:28.419993",
+  "name": "S010030020",
+  "state": "S01"
+ },
+ {
+  "block_code": "S040550001",
+  "block_name": "Chandigarh",
+  "district": "S04055",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:56:35.450289",
+  "name": "S040550001",
+  "state": "S04"
+ },
+ {
+  "block_code": "S020270035",
+  "block_name": "Balh",
+  "district": "S02027",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:56:31.900895",
+  "name": "S020270035",
+  "state": "S02"
+ },
+ {
+  "block_code": "S010040030",
+  "block_name": "Kargil",
+  "district": "S01004",
+  "docstatus": 0,
+  "doctype": "Block",
+  "modified": "2023-10-09 17:56:28.598681",
+  "name": "S010040030",
+  "state": "S01"
  }
 ]

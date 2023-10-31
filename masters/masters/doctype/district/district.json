@@ -41,7 +41,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-10-30 15:01:18.122062",
+ "modified": "2023-10-30 15:29:52.091021",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "District",
@@ -73,8 +73,11 @@
    "write": 1
   },
   {
+<<<<<<< HEAD
    "create": 1,
    "delete": 1,
+=======
+>>>>>>> c6acf5ee37cb07246b5d9da6b4963fc3a2062df4
    "email": 1,
    "export": 1,
    "print": 1,
