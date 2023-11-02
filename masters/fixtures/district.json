@@ -756,15 +756,6 @@
   "state": "S07"
  },
  {
-  "district_code": "S07091",
-  "district_name": "North",
-  "docstatus": 0,
-  "doctype": "District",
-  "modified": "2023-10-06 16:55:16.269652",
-  "name": "S07091",
-  "state": "S07"
- },
- {
   "district_code": "S07092",
   "district_name": "North East",
   "docstatus": 0,
@@ -5677,5 +5668,14 @@
   "modified": "2023-10-06 16:55:14.569884",
   "name": "S01004",
   "state": "S01"
+ },
+ {
+  "district_code": "S07091",
+  "district_name": "North",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-10-06 16:55:16.269652",
+  "name": "S07091",
+  "state": "S07"
  }
 ]

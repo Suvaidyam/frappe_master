@@ -226,14 +226,6 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:26.113924",
-  "name": "S07",
-  "state_code": "S07",
-  "state_name": "Delhi"
- },
- {
-  "docstatus": 0,
-  "doctype": "State",
   "modified": "2023-10-06 16:47:26.199696",
   "name": "S10",
   "state_code": "S10",
@@ -278,5 +270,13 @@
   "name": "S01",
   "state_code": "S01",
   "state_name": "Jammu & Kashmir"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-10-06 16:47:26.113924",
+  "name": "S07",
+  "state_code": "S07",
+  "state_name": "Delhi"
  }
 ]
