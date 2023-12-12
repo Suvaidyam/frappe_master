@@ -756,6 +756,15 @@
   "state": "S07"
  },
  {
+  "district_code": "S07091",
+  "district_name": "North",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-10-06 16:55:16.269652",
+  "name": "S07091",
+  "state": "S07"
+ },
+ {
   "district_code": "S07092",
   "district_name": "North East",
   "docstatus": 0,
@@ -1477,7 +1486,7 @@
  },
  {
   "district_code": "S09175",
-  "district_name": "Allahabad",
+  "district_name": "Prayagraj",
   "docstatus": 0,
   "doctype": "District",
   "modified": "2023-10-06 16:55:18.208569",
@@ -1720,7 +1729,7 @@
  },
  {
   "district_code": "S09202",
-  "district_name": "Kanshiram Nagar",
+  "district_name": "Kasganj",
   "docstatus": 0,
   "doctype": "District",
   "modified": "2023-10-06 16:55:18.847726",
@@ -2355,15 +2364,6 @@
   "doctype": "District",
   "modified": "2023-10-06 16:55:20.542458",
   "name": "S14273",
-  "state": "S14"
- },
- {
-  "district_code": "S14274",
-  "district_name": "Churachandpur",
-  "docstatus": 0,
-  "doctype": "District",
-  "modified": "2023-10-06 16:55:20.566090",
-  "name": "S14274",
   "state": "S14"
  },
  {
@@ -5634,15 +5634,6 @@
   "state": "S26"
  },
  {
-  "district_code": "S01003",
-  "district_name": "Leh(Ladakh)",
-  "docstatus": 0,
-  "doctype": "District",
-  "modified": "2023-10-06 16:55:14.517859",
-  "name": "S01003",
-  "state": "S01"
- },
- {
   "district_code": "S04055",
   "district_name": "Chandigarh",
   "docstatus": 0,
@@ -5650,15 +5641,6 @@
   "modified": "2023-10-06 16:55:15.411023",
   "name": "S04055",
   "state": "S04"
- },
- {
-  "district_code": "S02027",
-  "district_name": "Mandi",
-  "docstatus": 0,
-  "doctype": "District",
-  "modified": "2023-10-06 16:55:14.829366",
-  "name": "S02027",
-  "state": "S02"
  },
  {
   "district_code": "S01004",
@@ -5670,12 +5652,30 @@
   "state": "S01"
  },
  {
-  "district_code": "S07091",
-  "district_name": "North",
+  "district_code": "S01003",
+  "district_name": "Leh(Ladakh)",
   "docstatus": 0,
   "doctype": "District",
-  "modified": "2023-10-06 16:55:16.269652",
-  "name": "S07091",
-  "state": "S07"
+  "modified": "2023-10-06 16:55:14.517859",
+  "name": "S01003",
+  "state": "S01"
+ },
+ {
+  "district_code": "S02027",
+  "district_name": "Mandi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-10-06 16:55:14.829366",
+  "name": "S02027",
+  "state": "S02"
+ },
+ {
+  "district_code": "S14274",
+  "district_name": "Churachandpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2023-10-06 16:55:20.566090",
+  "name": "S14274",
+  "state": "S14"
  }
 ]

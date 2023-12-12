@@ -58,14 +58,6 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:26.299866",
-  "name": "S14",
-  "state_code": "S14",
-  "state_name": "Manipur"
- },
- {
-  "docstatus": 0,
-  "doctype": "State",
   "modified": "2023-10-06 16:47:26.317645",
   "name": "S15",
   "state_code": "S15",
@@ -162,14 +154,6 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:26.797479",
-  "name": "S29",
-  "state_code": "S29",
-  "state_name": "Karnataka"
- },
- {
-  "docstatus": 0,
-  "doctype": "State",
   "modified": "2023-10-06 16:47:26.821424",
   "name": "S30",
   "state_code": "S30",
@@ -258,10 +242,18 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:25.963344",
-  "name": "S02",
-  "state_code": "S02",
-  "state_name": "Himachal Pradesh"
+  "modified": "2023-10-06 16:47:26.797479",
+  "name": "S29",
+  "state_code": "S29",
+  "state_name": "Karnataka"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-10-06 16:47:26.113924",
+  "name": "S07",
+  "state_code": "S07",
+  "state_name": "Delhi"
  },
  {
   "docstatus": 0,
@@ -274,9 +266,17 @@
  {
   "docstatus": 0,
   "doctype": "State",
-  "modified": "2023-10-06 16:47:26.113924",
-  "name": "S07",
-  "state_code": "S07",
-  "state_name": "Delhi"
+  "modified": "2023-10-06 16:47:25.963344",
+  "name": "S02",
+  "state_code": "S02",
+  "state_name": "Himachal Pradesh"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "State",
+  "modified": "2023-10-06 16:47:26.299866",
+  "name": "S14",
+  "state_code": "S14",
+  "state_name": "Manipur"
  }
 ]
