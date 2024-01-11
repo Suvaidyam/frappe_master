@@ -54,7 +54,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-10-30 15:31:52.881032",
+ "modified": "2024-01-11 15:03:57.796881",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "Block",
@@ -92,8 +92,7 @@
    "read": 1,
    "report": 1,
    "role": "MIS executive",
-   "share": 1,
-   "write": 1
+   "share": 1
   }
  ],
  "show_title_field_in_link": 1,

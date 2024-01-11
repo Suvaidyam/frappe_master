@@ -32,7 +32,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2023-10-30 15:17:26.528090",
+ "modified": "2024-01-11 15:03:27.906126",
  "modified_by": "Administrator",
  "module": "Masters",
  "name": "State",
@@ -58,12 +58,10 @@
    "read": 1,
    "report": 1,
    "role": "MIS executive",
-   "share": 1,
-   "write": 1
+   "share": 1
   },
   {
    "create": 1,
-   "delete": 0,
    "email": 1,
    "export": 1,
    "print": 1,
